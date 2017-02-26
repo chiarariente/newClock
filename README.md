@@ -1,4 +1,4 @@
-# Relaxing Clock
+# New Clock
 
 ![relaxingClock](https://github.com/chiarariente/relaxingClock/blob/master/img/header.png?raw=true)
 
