@@ -1,6 +1,6 @@
-# New Clock
+# Relaxing Clock
 
-![NewClock]()
+![relaxingClock]()
 
 Third excercise of the class [*Creative Coding*](https://github.com/drawwithcode). The assignment was to *Create a new clock with a technique of our choice*.
 <br>
